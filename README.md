@@ -167,7 +167,7 @@ Edit the `display()` method to add, remove, or reorder system information fields
 
 MIT License
 
-Copyright (c) 2025 Neofetch Windows
+Copyright (c) 2025 Sentinet Community Centre
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
