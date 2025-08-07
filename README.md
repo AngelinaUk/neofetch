@@ -194,4 +194,4 @@ SOFTWARE.
 
 ---
 
-**Note**: This implementation is specifically designed for Windows systems and uses Windows-specific APIs. For cross-platform alternatives, consider the original bash-based neofetch or other implementations.
+**Note**: This implementation is specifically designed for Windows systems and uses Windows-specific APIs. 
