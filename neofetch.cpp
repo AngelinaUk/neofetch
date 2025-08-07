@@ -353,7 +353,6 @@ public:
 
     void showVersion() {
         std::cout << "neofetch 2.0" << std::endl;
-        std::cout << "https://github.com/neofetch/neofetch" << std::endl;
     }
 
     void showHelp() {
@@ -491,4 +490,5 @@ int main(int argc, char* argv[]) {
     }
 
     return 0;
+
 }
